@@ -1,0 +1,2785 @@
++5D!
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+XILc
+GXa
+GFa
+G4a
+E?QJ@Uj
+)QJ Uj
+gQU]k
+"t `(a
+8@c;
+8 `t
+> `|
+ `0a
+ `lL
+8AC;
+eP`J
+eP`J
+xP`J
+_!\H
+_!\R
+_!\<
+MJ @cQ
+LcA\c
+C\b; 
+2 cV
+`&N 
+`&`#
+`!N 
+`$@#
+\b[ 
+`% #
+`!`#
+) `h
+c$c<
+ Cf=
+ CF=
+=Df=O
+$Dg5
+5G%=O
+5Dg5L
+Gy$B
+1@c%L
+=De=OX
+$Dg5
+@c-L
+!C=;@
+G7<@
+G><C
+C9#@
+GG5Oe
+0123456789ABCDEFASSERT: %s %d
+Img2 invalid!
+M1:%d
+M2:%d
+D1:%d
+D2:%d
+H1:%d
+H2:%d
+m1:%d
+m2:%d
+s1:%d
+s2:%d
+_IMI_lma=0x%x, _MI_start=0x%x, _IMI_end=0x%x
+IMI0(0x%x)=0x%x, IMI1(0x%x)=0x%x
+Init IMI 2
+Both Ch0 and Ch1 are busy
+Ch0 is busy
+Ch1 is busy
+CRC OK, Base : %x
+CRC Error, Base : %x
+REG_R2_RESET_CTRL=0x%x
+SysInit_ResetSPIBase
+u32NewSPIBase=0x%x
+Default port(0x%x) connecting to 0x%x
+=== console_init ok (%s %s) ===
+21:06:49
+Nov 27 2019
+Hello from SysInit_boot : (RIU_MAP=%lx), (STACK:%lx)
+REG_IO1_BASE=0x%x
+IO1_BASE1=0x%x
+IO1_BASE1_1=0x%x
+====================================================
+FuncOnIMI2 is running on IMI..
+addr=0x%08x 
+ %08x
+FuncOnIMI_1 is running on IMI..
+address 0x%x=0x%x
+./cpu/risc32/MST9U/interrupt.c
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+MODEL_NAME
+PANEL_NAME
+Dec  8 2021
+20:46:40
+!@2D
+MJ@EJ
+<EJ\D
+`:gP
+EJmEJ
+Lc`EJ
+c/(P
+c/(P
+j/'P
+j/(P
+;AG\
+j/&P
+j/DP
+EF=]J
+k/ T
+@c#@c)
+c.`\
+c.l\
+c.d\
+c.n\
+c.h\
+c.p\
+c.`\
+c.l\
+j/9P
+c.`\
+c.l\
+c.`\
+j/9P
+c.t\
+c.x\
+c.p\
+c.h\
+c.n\
+c.d\
+c.l\
+c.t\
+c.x\
+y"U
+[AE3
+nP`d
+;@c9^#
+4 `D
+Dc<Lc
+)P`<
+ `< d@ h4P
+t a6
+Tc@ c
+_!\T
+Tc@ c
+j/(P
+j/'P
+j/'P
+j/$\
+j/'P
+j/$\
+j/'P
+m/ \
+eAJ=
+m/"\
+o/ \
+o/"\
+AL]]J
+oAg]
+oAMU
+o/ \
+o/"\
+AL]]J
+oAg]
+oANU
+m/ \
+m/"\
+J!lP
+G%Lj
+G&Dj
+G,|j
+G.4j
+G'\j
+>RQ@3R
+Q@2R
+Q@1R
+oQ@0R
+'Q@/R
+@c8\c
+(AP;
+MC ]J
+/Q@#R
+wQ@"R
+/Q@!R
+Q@%R
+Q@-R
+Q@,R
+Q@+R
+WQ@*R
+Q@)R
+j/'P
+j/$\
+j/(P
+kw@c[
+@Eg-
+" iD
+aw\d3P
+Dc=D
+AJ9]J
+aAJ3AJ)A@UAkm]k
+AkcAk)AJ]
+AjaL
+]bAkcAJ]]J
+AJ9MJ(
+n/T
+Tc@ `
+Tc  c
+g20k
+k/ \
+k/!\
+k/"\
+k/"\
+k/#\
+k/$\
+k/%\
+k/&\
+c/"P
+j/ P
+j/zT
+j/&\
+j/}T
+j/'\
+j/}T
+j/{T
+j/(\
+j/}T
+j/{T
+j/)\
+j/}T
+ `pP`
+k/.@
+k/^L
+H`Tc
+`$$#
+]Bi 
+G"Tc
+I{ `x d
+ al }2
+&\b{ 
+ `R\
+" `  d
+" `  d
+" `  d
+ `  d
+" `  d
+`>CP
+46Tc
+`>CP
+3NTc  `(
+Lc:\c
+gLc:
+oLc:@
+oLc:@
+oLc:@
+oLc:@
+IFPD
+IFPD
+IFPL
+`EJ=T
+=EJ5
+IfXD
+IfXL
+Dc4Lc"Dg
+\bi 
+) `f
+=(@j<
+=*@j<
+c=B\
+h@c9
+i!A\
+!@t"
+_TAJ
+c/CP
+c/CP
+j/zP
+k(xTk
+D\b) 
+V\c)#
+Dc,Pc
+EJ4Dc4AJ
+}<P`
+c!Ar
+0H\c
+Ek<Dc<Ak
+Ek<Dc<Ak
+`} 
+%\lq 
+^ `H
+2 `<
+;I@"
+f `D
+j cr
+& c2P
+Dc<@ceL
+@c=$h Qk
+Df>@c5
+Df>@c5
+EJ<Dc<AJ
+EJ,Dc,AJ
+Dc4l
+Dc<l
+EJ,Dc,AJ
+AJ=L
+EGVAJ=%H
+EJ4Dc4AJ
+AJ=L
+EGVAJ=
+EJ<Dc<AJ
+AJ=L
+EGVAJ=%I
+EJ,Dc,AJ
+AJ=L
+EGVAJ=
+@c=L
+@c=L
+@c=\`QH`
+@c-L
+@c=L
+)P`2
+4 a 
+@c=L
+@c=\c
+F c^
+ZTc@ c
+> c"
+\f[ 
+ e( h
+@c%\c
+EJW]J
+`>JL
+Dc< c
+`>JL
+Dc< c
+\`)P`@H`
+) `X
+j/KP
+@j<L
+*LcyTc
+ c<N+
+NOAT
+Dc<D
+|Dc=]
+NTcp\b
+Tcp\b
+Dc\ ct
+Dc<@ce
+Dc4@cm
+C@cP
+v\c)#
+k/|T
+Dc<@l
+@c=$l
+k/|P
+k/|T
+EJ<E
+<AJe
+Ek4EJ4AkU]k
+@c=$e
+AJY]
+@c=\l
+`\lq 
+@cU
+@c=\l
+c/|P
+Lc(]c
+@k<P
+Lc(\
+eMC(]J
+Mc(]k
+z3Lc(
+x.Tc
+Lc(\
+v`@n{@
+AJ8]J
+_ANSALU]
+AJ8]J
+ANSALU
+c/2P
+c/2P
+vCLc(\c
+w+Lc(
+q(]J
+c/"!@*
+mzQ`
+!H<Q`
+!L$Q`
+nwQ`
+j/AP
+c&0P
+\PTc
+l%*\
+!@.\
+V,MJ!EJWUJ
+j%eH
+) d@
+`>P
+`>RP
+E a$
+`:`P
+`:`P
+29 `@
+`>IP
+`>EP
+`>MP
+`>XP
+`?DP
+`>`P
+,:Tc
+Dc<]h
++PTc
+Dc<]g
+q]Bs#
+Dc<@j
+PP`2
+)hP`2
+c `n
+A!Kz
+A@ULj
+6 `N
+`%NP
+`:`P
+uQ@_
+,DcVTc_ g
+Tc P
+Tg_ eT n*
+Tc@ b@
+Z `(
+!@c3P
+d@c)
+AGkMJ2L
+1AJ=
+@c;Lc
+ `j\
+{Lcp
+j@ca\c
+{Lcp
+CAJa]J
+j@ca
+CAJa
+k/@H
+H!AB
+: d<
+DcV\c
+m]`)
+]`;H
+.MK0
+: d<
+\Lc 
+oLc 
+e l\
+AMJ$]J
+MJd]J
+MJ\]J
+MC@]J
+0]@j<
+0\@j<
+@c;\
+0@j4
+ @j<
+"@j<
+)!gH
+0b@l<
+0f@l<
+0,@l<P
+d@c;
+0,@l<
+ dHLc
+c `<
+`AD#
+~@j4
+>@j4
+:@j4
+8@j4
+!@tP`
+zTc8
+fP` 
+2Lc)UC
+zLc!U
+!@tP`
+`P` 
+Lc)UC
+pP` 
+Tc  `0
+3 @j<
+(AP<
+3@]g
+ACS]J
+LlP\c
+. dV
+!G>
+LcP]C
+@j<P
+@j<P
+@j<P
+LcP\c
+!QAN,
+!UAn<
+!P@n,P
+!T@n<P
+!X@n,P
+!\@n<P
+#(@n,P
+#)@n<P
+#*@n,P
+#+@n<P
+#q@n,
+!R@n<
+!V@n,
+!Z@n<
+!^@n,
+!R@n<
+!V@n,
+!Z@n<
+!^@n,
+!QAN<
+!UAn,
+!P@n<P
+!T@n,P
+!X@n<P
+!\@n,P
+#(@n<P
+#)@n,P
+#*@n<P
+#+@n,P
+#q@n<
+ F@j<
+#-@j<P
+#/@j<P
+#1@j<P
+#3@j<P
+#q@j<
+#$@j<
+#&@j<
+#B@j<
+@j<P
+@j<P
+@j<P
+@j<P
+!P@j<
+!R@j<
+!T@j<
+!V@j<
+!X@j<
+!Z@j<
+!\@j<
+!^@j<
+#(@j<
+#*@j<
+!c@j<
+!g@j<
+!k@j<
+!o@j<
+#D@j<
+#d@j<
+#f@j<
+#h@j<
+#j@j<
+#`@j<
+ j@j<P
+ F@j<
+#-@j<P
+#/@j<P
+#1@j<P
+#3@j<P
+#q@j<
+#$@j<
+#&@j<
+#B@j<
+@j<P
+@j<P
+@j<P
+@j<P
+!P@j<
+!R@j<
+!T@j<
+!V@j<
+!X@j<
+!Z@j<
+!\@j<
+!^@j<
+#(@j<
+#*@j<
+!c@j<
+!g@j<
+!k@j<
+!o@j<
+#D@j<
+#d@j<
+#f@j<
+#h@j<
+#j@j<
+#`@j<
+ F@j<
+#-@j<P
+#/@j<P
+#1@j<P
+#3@j<P
+#q@j<
+#$@j<
+#&@j<
+#B@j<
+!P@j<
+!R@j<
+!T@j<
+!V@j<
+!X@j<
+!Z@j<
+!\@j<
+!^@j<
+#(@j<
+#*@j<
+!c@j<P
+!g@j<P
+!k@j<P
+!o@j<P
+#D@j<
+#d@j<
+#f@j<
+#h@j<
+#j@j<
+#`@j<
+ F@j<P
+#-@j<P
+#/@j<P
+#1@j<P
+#3@j<P
+#q@j<
+#$@j<
+#&@j<
+#B@j<
+#(@j<
+#*@j<
+!P@j<
+!R@j<
+!T@j<
+!V@j<
+!X@j<
+!Z@j<
+!\@j<
+!^@j<
+#D@j<
+#d@j<
+#f@j<
+#h@j<
+#j@j<
+!c@j<
+!g@j<
+!k@j<
+!o@j<
+#`@j<
+ j@j<P
+ F@j<
+#-@j<P
+#/@j<P
+#1@j<P
+#3@j<P
+#q@j<
+#$@j<
+#&@j<
+#B@j<
+!c@j<P
+!g@j<P
+!k@j<P
+!o@j<P
+#(@j<
+#*@j<
+!P@j<
+!R@j<
+!T@j<
+!V@j<
+!X@j<
+!Z@j<
+!\@j<
+!^@j<
+#D@j<
+#d@j<
+#f@j<
+#h@j<
+#j@j<
+#`@j<
+ F@j<P
+#-@j<P
+#/@j<P
+#1@j<P
+#3@j<P
+#q@j<
+#$@j<
+#&@j<
+#B@j<
+!P@j<
+!R@j<
+!T@j<
+!V@j<
+!X@j<
+!Z@j<
+!\@j<
+!^@j<
+#(@j<
+#*@j<
+!c@j<
+!g@j<
+!k@j<
+!o@j<
+#D@j<
+#d@j<
+#f@j<
+#h@j<
+#j@j<
+Tcp\h
+Tcp\f
+Tcp\d
+Tcp\b
+Tcp `
+Dc>\c
+,@c;
+,@c;
+,@c;
+,@c;
+!@pP`
+N `R
+V `<
+~bTc
+~@Tc
+~"Tc
+Tc@ `
+}P\c
+}.Tc 
+.Lm@
+j0PP
+vxTc
+vZTc
+v<Tc
+Tc@ `
+uZTc
+u<Tc
+t(\c
+ R@l4
+nj\c
+l>Tc0L
+ IJ8]J
+8^\c
+IJ"]
+`!`:"A
+1B c|
+/z cX
++h g~
+JO!@
+Fg5D
+EG5D
+!62\
+SIJ8
+SIk8
+SIJ8
+SIk8
+SIJ8
+SIk8
+SIJ8
+SIk8
+Fk5
+EF=/
+ `|]
+ a$
+)MJ@
+:@j<T
+@c;L
+ @j<P
+@j<P
+ @j<P
+@j<P
+ @j<
+@j<P
+Dc]LcfTc
+TDc<\c
+$nTc@
+j$am
+) ed$a
+TEC<]J
+@l<P
+@l4P
+@l<P
+@l<P
+ dMM@
+4Aj4
+4Aj<
+0Aj4
+)@j<T
+kLc@
+dMC@
+)@j<
+"@j<
+$@j<\
+%@j<\
+&@j<T
+"@j<
+$@j<\
+%@j<\
+&@j<T
+eMC@
+"@j<
+$@j<\
+%@j<\
+&@j<T
+dMC@
+ @j<P
+"@j<
+$@j<\
+%@j<\
+&@j<T
+~ML@
+?@j<P
+9@j<
+@j<P
+,Aj<
+/@j<
+@j<P
+H@j<
+MC@]`
+@j<P
+@@j<L
+9@j<
+?@j<P
+,@j<
+5@j<
+4@j<
+6@k<\
+8@k4
+:@k<
+<@k4
+D@k4\
+F@k<
+H@k4
+J@k<
+>AK4
+L@k<
+N@k4
+B@k<P
+1@l<
+h@l<P
+T@k4@
+V@k4\
+X@k4\
+Z@k<
+\@k<\
+^@k4
+`@k4@
+b@k<
+MK(ADS@
++AJ9P
+dAJ9
+ZAkkAJ]
+`!L
+ `0D
+)\`A
+Dc$Lca
+pLg!
+$Lgq d
+ i0\`iH
+LciTc
+LcaTc
+LcyTc
+Tc`Lc)
+Lg1 `
+RLc)Tc
+`LcaTc
+ IF9
+HLc9UC
+ `$P
+IGPD
+NLc1T
+ Lc1T
+Lc1T
+@c;Lc9\c
+\h3 
+Dc<\`
+Dc<\`
+fLcA
+@$$ 
+@$$#
+!D\!HP
+' d\$`! ht
+ e$`5 i
+$`! h
+$`! h
+`>XP
+; dD$`! h,
+$`! h
+`>XP
+w dD$`! h,
+`>JL
+Dc< c
+PDou
+j @P
+!@zT
+.MC@
+Dc=EJ
+k"H\
+Dc=EJ
+k"J\
+j"^P
+j">P
+IfXT
+IfXT
+IfXT
+IfXT
+IfX 
+IfX]
+IfXT
+Eg,T
+Eg,T
+Eg,T
+Tc@ c
+4Tc0
+Dc< `N
+j"LP
+j"LP
+j"PP
+j"PP
+j"NP
+j"XP
+j"LP
+j"XP
+j"LP
+j"XP
+j"LP
+j"XP
+j"LP
+j"NP
+j"XP
+j"LP
+j"NP
+j"XP
+j"LP
+j"NP
+j"XP
+j"LP
+j"NP
+j"XP
+j"LP
+j"XP
+j"LP
+j" D
+j""D
+J'!I
+k'!dP
+j">P
+j"\P
+j"\P
+j"\P
+j  P
+j "P
+j $P
+j &P
+TLcATc
+A!OR
+" c\
+!e4%`
+UMC0
+j"^P
+j"\P
+j"^P
+j">P
+)MC0
+j"^P
+j"\P
+j"^P
+j"^P
+j">P
+wMC0
+$`A iX
+M4UC 
+`!Cx
+@ a<
+j :P
+j!HP
+j!JP
+j!LP
+j!NP
+j!PP
+j!RP
+j!TP
+j!VP
+j TP
+j FP
+j!@P
+j!BP
+j!DP
+j!FP
+j!HP
+j!JP
+j!LP
+j!NP
+j!PP
+j!RP
+j!TP
+j!VP
+j TP
+$ aN
+H `0@
+c!jP
+j cxP
+sz\c
+j "P
+j $P
+j &P
+j!jP
+j "P
+j $P
+j &P
+j!@P
+j!BP
+j!DP
+j!FP
+j!HP
+j!JP
+j!LP
+j!NP
+j!PP
+j!RP
+j!TP
+j!VP
+j"^P
+j"^P
+j"\P
+HTc@
+j jP
+j tP
+j#nP
+j#~P
+Jv%D=
+IxTc
+C6Tc
+R\`!H
+Dc>\c
+. `P
+]@jh
+Kh!@
+!AV!a
+@ a0
+]@)P
+( a$
+D `x
+Dc>Tc
+ @j;
+ @c;
+Pc \c
+eAo[
+ AK;
+4@!=
+`,j
+`!z
+V ar
+T@c;
+) `j\
+c/^P
+c/LP
+ `n\
+c/"P
+# `n\
+c/"P
+ `^\
+c/VH
+ d  hd
+c/VH
+c/VL
+) `^\
+c/WH
+ dp h
+c/WH
+c/VH
+c/VP
+c/VP
+c/VP
+Q@TACS
+Q@TACS
+P!@n
+zUJ?U
+eEJ=
+eEJ=
+/H]G
+`MK 
+EJ=]J
+/8@k<
+/9@k<
+/X@k<
+/Y@k<
+j/&P
+j/.P
+j/aP
+j/"P
+R@cSLcRk
+LcRk
+LcRk
+@@c5OG
+0O'B
+GOZB
+l/d\
+l/(P
+l/>P
+l/?P
+j/h
+j/j
+j/l
+j/n
+j/p
+j/r
+j/t
+j/v
+j/x
+j/z
+j/|
+j/~
+p,P`^
+ `LLc
+'LP`
+<P`^
+) `p
+) `p
+d@c0\c
+!@xP
+lj aJ
+ `4\`)
+) `  dl
+I C\
+Z#,@
+ anL
+ "#]
+ #+]
+ &W]
+ ';]
+]Oa 
+]BI 
+k]CI 
+]K) 
+]KI !
+]Ki #G]K
+D %w
+]LI &
+ 'G]N
+$ ++
+dAJ8
+76\c
+@P`2P
+d@o;@c9\c
+d@c9
+d@c9
+d@c9
+c2\c
+d@c0
+8P`d@g
+f\c
+Ake!`
+nBRu@
+)0Ag$@
+EK<!C2
+j/(P
+c/2P
+c/?P
+j&sP
+c'p\
+c'pT
+c&qT
+c&p\
+c&uT
+c&t\
+^cA 
+Q^jI 
+2^li 
+MP`2
+Dc4@l
+@c=$hd
+Dc<@k
+@c=$k>
+Dc,@n
+@c=$j
+Dc4@m
+@c=$jN@
+H `H
+M(x/
+EJ<Dc<AJ
+EJ,Dc,AJ
+J `H
+KP`D
+SP`"
+@@lT\c
+\dI#
+ i8 l
+\dI 
+)!E<!I
+\dI#
+P`T@g
+_!\d
+{]B) 
+\dI 
+`\dI 
+\dI 
+^\dI 
+\dI 
+\dI 
+\dI 
+c \c
+cP\c
+c0\c
+c@\c
+c \c
+TAc;
+.\b! 
+\dA 
+7Dc>\c
+Dc>\c
+Dc>\c
+Dc>\c
+:\bI 
+7Q@7 b~
+;AC<
+4 `&T
+;AN<
+ `&T
+R `&T
+ `&T
+"\b! 
+\bA 
+)\c! 
+\cA 
+1\ca 
+N\ba#
+f\d!#
+\dA#
+E\da#
+DAm;
+a]Hi#
+P`#\
+$AJc
+P`$\
+Ap<
+`AGU]J
+Dd2T
+P`,
+P`@
+}(\b) 
+[ q
+`\ `|
+Ek$Dc$Ak
+rx\c! 
+$AJ;
+$AJ;
+JPQ@
+$AJ3
+$AJ3
+$AJk
+9TP`P
+P`2P
+^P`2P
+P`bP
+B@c#
+C]C[ 
+&\d) 
+LJQ`
+ 0?\
+A .%\
+ %q\
+! %Y\
+I %C\
+) %Y
+Q`4@
+$AJ+
+LAc[
+$Af[
+g. `(P
+) -{\
+Q`4@
+LAc[
+)  ?
+.P`"
+&P`d
+]bS#
+]bS#
+n]CA 
+3@c=\c
+ 5P
+]P`d
+'LP`
+j/LD
+f]CA 
+]C! 
+]\ls#
+Lc T
+Q@?AJ
+ANd]J
+ZMk!!`t%
+L@n\\c
+|@n\\c
+B.+@
+XAM)
+@pd\c
+)@pd
+Z!E0
+0J&8
+`@nd
+_P`2P
+P`d@d
+g@c(\c
+3@c=\c
+3@c=P
+<@c9\c
+Lc UJ
+Dke b
+3@c=\c
+C `>
+OEa@
+IFPD
+IFPL
+bMc@]k
+)MJ@
+mLc!Tc
+F$,@
+^bI#
+vP` 
+IfXD
+IfXD
+IfXL
+*P`-
+|P` 
+BP`E
+]E3 
+?UG_
+\FS#
+_fS#
+E _FS#
+%!_&S#
+WDc5
+Dj5\c
+EGVAJ=]L
+t `L
+XILc
+DRa
+a"\
+Aa&\
+a*\
+?fTc
+?NTc
+DceMJ
+Mk@EJ]EJ
+=HTc
+GZu]J
+gZq]k
+KAMU
+/jP`
+/@P`
+ `(a
+ `lL
+H@\g
+8@c;
+ `8
+C\b; 
+2 cV
+`&N 
+`&`#
+`!N 
+`$@#
+\b[ 
+`% #
+`!`#
+ `@a
+c?MK
+]iI#
+c_MK
+) `h
+c$c<
+G#<OC
+Ge<L
+C9;Cz
+ Cf=
+ CF=
+=Df=O
+$Dg5
+5G%=O
+5Dg5L
+Gy$B
+1@c%L
+=De=OX
+$Dg5
+@c-L
+!C=;@
+G7<@
+G><C
+C9#@
+GG5Oe
+Dc5Dc=
+\p9 
+\c9 
+Dc5Dc=
+Dc5Dc=
+a8a4
+a8a4
+a8a4
+Dg%L
+a(a$
+a(a$
+a(a$
+Lf=
+!(a$
+a(a$
+a(a$
+a(a$
+a(a$
+a(a$
+EDy-D
+EDy-D
+EDy-D
+OX@GG
+G'-GH5
+aXaP
+aXaP
+XaP
+a@a8
+a@a8
+A a
+! a
+a@a8
+! a
+!@a8
+a@a8
+a@a8
+a@a8
+a@a8
+a@a8
+ a:a
+ a.a
+Af=L
+%|(j
+">z
+,&@l
+)_9Y 
++7Og
+q8-@X,E
+0<4C
+      
+C270
+        
+<!x*
+q8-@X,E
+0L4T
+      
+C270
+        
+0000000000000
+q8-@X,E
+()*+,-YZ`abcdlm
+"p#0$
+&P' (
+*`+@,
+0p1`2@304 5
+B C0D@EPFpG
+M0N`O
+X0Zp[
+"p#0$
+&P' (
+*`+@,
+0p1`2@304 5
+B C0D@EPFpG
+M0N`O
+X0Zp[
+!d"'#
+)}*\+=,!-
+?-@KAmB
+GBHuI
+K$MdN
+2P~3
+ CDhD
+"U>XUt
+ f6Lfbxf
+w.@wRfwx
+2P~3
+ CDhD
+"U>XUt
+ f6Lfbxf
+w.@wRfwx
+C5gD
+T8\U
+e6Qfl
+v,BwXmw
+)3=GQ[eox
+$.8BLV_is}
+$DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+  x 
+%&p&
+$\
+0l
+"&*.26:>BFJNRVZ^bfjnrvz~
+,l
+$%L%
+( )`)
+)(*h*
+*,+p+
++4,x,
+0$1h1
+102t2
+5$6h6
+607t7
+89P9
+:0;t;
+<=T=
+= >d>
+>4?x?
+,l
+$%L%
+( )`)
+)(*h*
+*,+p+
++4,x,
+0$1h1
+102t2
+5$6h6
+607t7
+89P9
+:0;t;
+<=T=
+= >d>
+>4?x?
+,l
+$%L%
+( )`)
+)(*h*
+*,+p+
++4,x,
+0$1h1
+102t2
+5$6h6
+607t7
+89P9
+:0;t;
+<=T=
+= >d>
+>4?x?
+8l
+ (!l!
+!8"|"
+$4%|%
+&$'l'
+, -l-
+.0/|/
+1,2|2
+5(6x6
+;(<|<
+< =t=
+8l
+ (!l!
+!8"|"
+$4%|%
+&$'l'
+, -l-
+.0/|/
+1,2|2
+5(6x6
+;(<|<
+< =t=
+8l
+ (!l!
+!8"|"
+$4%|%
+&$'l'
+, -l-
+.0/|/
+1,2|2
+5(6x6
+;(<|<
+< =t=
+$T
+! "l"
+#0$|$
+'((x(
+34d4
+$T
+! "l"
+#0$|$
+'((x(
+34d4
+$T
+! "l"
+#0$|$
+'((x(
+34d4
+"&*.26:>BFJNRVZ^bfjnrvz~
+"&*.26:>BFJNRVZ^bfjnrvz~
+"&*.26:>BFJNRVZ^bfjnrvz~
+=7.'&&
+4!&&
+1-&&
+<*&&
+:(&&
+96&&
+=Jay
+OZtG
+EJd{
+EL\u
+EM]j
+EN_mz
+ENQn}
+EOSap
+FAUfh
+FAVgh
+FBWYnp
+FCJ_as
+GELSYl|
+GF@KQXlp
+GGD@LS[bwz
+GGGFC@KU\m}$8
+fQJ9*
+`Z7'+
+xSM:/
+qi@1 
+toF5$
+c]6&(
+fRM:-
+pkB0/
+`\I"
+}TO;
+vmB;
+f]0+
+uTL#
+(\O{vldee
+;-SMyufee
+*^IEv`ee
+0$TFpbee
+>#PCrmee
+*YNyoee
+2'U{iee
+.SEhee
+7XCkee
+2ZMuee
+"Nvee
+4R~ge
+$Bod
+MSTAR_SECURE_STORE_FILE_MAGIC_ID
+rrrrrrrrrrrrrrrr
+Mrrrrrrrrrrrrrrr
+0E__Mrrrrrrrrrrr
+%0M0E__Mrrrrrrr
+HDCPHandler_Hdcp14CheckVPrimePrepared
+HDCPHandler_Hdcp14BKSVRead
+HDCPHandler_Hdcp2MsgDispatcher
+HDCPHandler_EncryptHdcp2RxKey
+HDCPHandler_DecodeHdcp2TxKey
+HDCPHandler_DecodeHdcp2RxKey
+HDCPHandler_DecodeHdcp1TxKey
+HDCPHandler_SECU_SET_HDMI_DP
+HDCPHandler_SECU_PowerDown
+HDCPHandler_AttachRxHDCPCtrlFunc
+HDCPHandler_AttachRepKSVFIFOFunc
+HDCPHandler_AttachReadX74Func
+HDCPHandler_AttachWriteX74Func
+HDCPHandler_AttachTxGetDPTXR0Func
+HDCPHandler_AttachTxCompareRiFunc
+HDCPHandler_AttachTxIOCBFunc
+HDCPHandler_AttachCBFunc
+HDCPLOG_DumpHexValue
+HDCPLOG_Hdcp2XSetLogPriority
+HDCPLOG_Hdcp1XSetLogPriority
+HDCPMBX_SetCommonCmd
+HDCPMBX_GetCmd
+HDCPMBX_SetCmd
+HDCPRx_GetHDCPRxInfo
+HDCPRx_Hdcp2MsgParser
+HDCPRx_Handler
+HDCP14Rx_RepeaterHandler
+HDCP14Rx_Handler
+HDCPRx_GetHDCP14_Info
+HDCPRx_ComputeVPrime
+HDCPRx_SetReadyBit
+HDCPRx_SetBstatus
+HDCPRx_WriteVPrime
+HDCPRx_SetKSVFIFO
+HDCPRx_Hdcp2RepAuthStreamReady
+HDCPRx_Hdcp2RepAuthStreamManage
+HDCPRx_Hdcp2RepAuthRecvAck
+HDCPRx_Hdcp2TriggerReAuthBit
+HDCPRx_Hdcp2AKESendRepeaerRecvListMsg
+HDCPRx_Hdcp2Process_RecvIDList
+HDCPRx_Hdcp2SKESendEks
+HDCPRx_Hdcp2LCSendLPrime
+HDCPRx_Hdcp2LCInit
+HDCPRx_Hdcp2AKESendPairingInfo
+HDCPRx_Hdcp2AKESendHPrime
+HDCPRx_Hdcp2HandlePairingInfo
+HDCPRx_Hdcp2AKEStoredKm
+HDCPRx_Hdcp2AKENoStoredKm
+HDCPRx_Hdcp2AKESendCert
+HDCPRx_Hdcp2AKEInit
+MNT270
+(vcp(02 04 05 06 08 0E 10 12 14(01 05 06 08 0B) 16 18 1A 1E 20 30 3E 60(01 03) 62 6C 6E 70 C8 B0 B6 DF)prot(monitor)type(LCD)cmds(01 02 03 07 0C F3)mccs_ver(2.1)asset_eep(64)mpu_ver(M001)model(MNT270)mswhql(1))
+(vcp(02 04 05 08 0B 0C 10 12 14(05 06 08 0B) 16 18 1A 60(01 03) 62 8D(01 02)A8 AC AE B6 C6 C8 C9 D6(01 05) DF)prot(monitor)type(LCD)cmds(01 02 03 07 0C F3)mccs_ver(2.1)asset_eep(64)mpu_ver(M001)model(MNT270)mswhql(1))
+SHBFIJR
+@?F9H8>=E@=
+N:=J8
+E8IJHFAB@
+GHFO==
+ABCDEFGHIJK
+LMNO
+QRST
+UVWXY
+Z[\]
+SHBFIJR
+BFEJH8IJ
+IJ8E<8HJ
+J=BIJ
+ABCD
+^_`abcde
+fghijklm
+nopqrstuvwKxyzY{|
+GF?@N@S
+GF?@N@S
+O8IJFJQ
+L8?8
+8IG=BJ
+P@HFB@A
+N:=J8
+J=GCQ=
+MFCF<
+GFCR?F:8J=CR
+BH8IEQA
+?=C=EQA
+I@E@A
+S?QB
+J8AD=H
+GHF?H8OEFIJR
+8:JF
+E8IJH
+@?F9H8>=E@=
+8:JF
+E8IJHN:=J8
+UVWXY
+#!'(%)$
+#!'(%)$
+#!'(%)$
+#!'(%)$
+#!'(%)$
+#!'(%)$
+#!'(%)$
+#!'(%)$
+I@;E8C
+?:KB8
+#!'(%)$
+#!'(%)$
+#$%&'
+#!'(%)$
+#!'(%)$
+#!'(%)$
+HKIIB@A
+12345
+I@;E8C8
+6789
+$BCMF
+$POOFDUFE
+$BCMF
+$BCP
+%FTDPOFDUBEP
+,BCFM
+'FIMU
+$BWP
+$POOFT
+/JFU
+"BOHFTM
+,BCFM
+"OTMVU
+,BBQFMJ
+*SUJ
+,BCFM
+/JFQPE
+,BCFM
+ABCDEF
+-PDLFE
+VOMPDL
+7FSS
+VOMPDL
+#MPR
+VOMPDL
+#MPRVFBEP
+VOMPDL
+VOMPDL
+#MPDDBUP
+VOMPDL
+7FSHSFOE
+VOMPDL
+VOMPDL
+-VLJUUV
+VOMPDL
+;BCMPLPXBOF
+VOMPDL
+;BNLOVUP
+VOMPDL
+VOMPDL
+VOMPDL
+VOMPDL
+8JEF
+-BSHFVS
+"ODIP
+8JEFTDSFFO
+#SFJU
+8JEFTDSFFO
+#SFFECFFME
+#SFE
+-FWF
+4[FSPLJ
+JSPLP
++,-.
+(789
+:;<.
+>??@ABC
+D??EFGH
+IJKLM
+(NOP
+QRS<.
+TUUUVW
+XUYZ[\
+]^_`ab
+(Ncde
+ijjjkljjjm
+tuvwx
+   @
+$Q4!$
+` (@$
+` (@
+$Q4!$
+@(28
+ @0D
+"0  /
+ D (
+!(A(
+   8
+ $@$
+@(@`@(
+@!@"
+$ "@
+ @@`
+D @P
+! A 
+"   /
+@ @4
+  @=
+ $@$B
+@ 0@ 
+"1ARbs
+  @@0
+@`  
+$Q4!$
+` t`
+` (@$
+` (@
+  @@0
+@`  
+$Q4!$
+` t`
+` (@$
+` (@
+KXPBEKCHP;?
+CHW
+Logo
+M001
+20211208
+MNT270
+MST9700
+DESIGN BY JRY
+PanelSG2701B01-7
+Panel Select
+Backlight Hours
+Spread spectrum
+Exit
+Freq
+Auto Color
+EraseNVRAM
+Pass
+Fail
+Gain
+Offset
+Cool
+Warm
+sRGB
+Normal
+BurnIn
+Reset BackLight
+EDID WP
+Bank
+Production
+0Scaler
+1ADC   
+2TCON  
+Addr
+Value
+BackLight
+CheckSum
+EHKNQT
+WZ]`cf
+ilorux
+'7GWgw
+@fvd
+`ffd
+@fvd
+`ffd
+  @@0
+0123456789ABCDEFASSERT: %s %d
+!)@:F,@zj/@\G1@|
+:@:F<@Z
+=@zj?@L~@@\GA@l
+-Dt>
+@ %z8
+i5 ---ValidTiming --dxx
+>>>DisplayLogoFlag==%d
+>>>PowerOnFlag==%d
+>>>PowerSavingFlag==%d
+>>>ForcePowerSavingFlag==%d
+AveLumi========dcr--------=%d
+[1;31mUsing External key, but content is NULL!!!
+[1;31mInvalid Encoded Key Format!!!
+[1;31mUsing Customized AES key, but content is NULL!!!
+[1;31m Use Internal Key!!!
+**Secu Store done done done
+[1;31m SECU STOR FAIL!!!
+NULL buffer pointer
+Tx Key is NOT Finish yet!
+SecureStorm is NOT Finish yet!
+Invaild Buffer Size!
+-Combo--IP Init---
+Wait SECU R2 Init Process Timeout!!
+HDCP22_ERROR_001
+Set 4 lane PN Swap = %x !
+Set Aux PN Swap !
+========== DP 1.1 ==========
+========== DP 1.2 ==========
+========== DP_VERSION_12_14 ==========
+[DPRx][ERROR] initial wrong id!!
+ERROR !: eDPTx ID Error
+LinkRate Error = %x
+## eDPTX rate:[%x] PORT ML Signal Off ##
+## eDPTX rate:[%x] PORT ML Signal On ##
+eDPTX SSC Enable
+Amp=0.20
+MFrq=32Khz
+eDPTX SSC Disable
+[AUX] HPD low
+SINK ACK TimeOut => W MCCS retry
+SINK DEF/NACK => W MCCS retry
+eDP MCCS WRITE Cmd =>SINK DEF/NACK
+W MCCS TimeOut
+SINK ACK TimeOut => R MCCS retry
+SINK DEF/NACK => R MCCS retry
+eDP MCCS READ Cmd =>SINK DEF/NACK
+R MCCS TimeOut
+SINK ACK TimeOut => R EDID[0x%x] retry
+SINK DEF/NACK => R EDID[0x%x] retry
+R TimeOut
+SINK ACK TimeOut => W EDID[0x%x] retry
+SINK DEF/NACK => W EDID[0x%x] retry
+W TimeOut
+[eDPTX] HPD Low at Read EDID Flow !!! 
+0x0%x,
+0x%x,
+SINK ACK TimeOut => R NL EDID[0x%x] retry
+SINK DEF/NACK => R NL EDID[0x%x] retry
+REPLY CMD:%x
+SINK ACK TimeOut => W DPCD[0x%x] retry
+SINK DEF/NACK => W DPCD[0x%x] retry
+SINK ACK TimeOut => R DPCD[0x%x] retry
+SINK DEF/NACK => R DPCD[0x%x] retry
+[eDPTX]: L0 error %x
+[eDPTX]: L1 error %x
+[eDPTX]: L2 error %x
+[eDPTX]: L3 error %x
+P%x Link Status
+[%x]DPCD202
+[%x]DPCD203
+[%x]DPCD204
+D:%d
+[Training P%d Abort] HPD low
+[Training P%d Abort] HPDIRQ event
+######## eDP TX PORT#[%x] Training ######
+######## eDP TX LaneCount = %d ######
+SINK Support SSC
+SINK NOT Support SSC
+[1.%d]eDP Version
+[1.4a]eDP Version
+[1.4b]eDP Version
+eDP Version TBD
+[%x] TRAINING_AUX_RD_INTERVAL * 4ms
+SINK Support EnHance Frame Mode
+SINK Not Support EnHance Frame Mode
+[%x]eDP Config Cap
+SINK Support ASSR
+SINK Not Support ASSR
+SINK Support AFR
+SINK Not Support AFR
+[%x]DPCD600
+Read Dev Cap
+[%x]DPCD Ver.
+[%x]MAX LinkRate
+[%x]MAX LaneCount
+[%x]MAX DownSpread
+[%x]DPCD 003
+SINK Support No_AUX_HandShake_Training
+Link Rate:[%x] Fast Link Training
+Lane Count:[%x]
+End Training
+SINK Not Support No_AUX_HandShake_Training
+Start Training TP1
+TP1 TrainingLoop Count %d
+Read Swing/PreEmphasis Req
+[%x]DPCD 206
+[%x]DPCD 207
+VswingLevel[0]=%x
+VPremphasisLevel[0]=%x
+[%x]DPCD103
+[%x]DPCD104
+[%x]DPCD105
+[%x]DPCD106
+[%x]LaneCount
+Training Fail
+Start Training TP3
+Start Training TP2
+TP2 TrainingLoop Count %d
+Link Rate:[%x] Link Training FAIL!
+Link Training CDR Lock!
+Link Rate:[%x] Link Training PASS!
+HPD P%d Event
+P%d Link Status OK!
+P%d ReTraining!
+HPD Event Fail: P%d is Low !
+HPD P%d Connect
+HPD Connect Fail : Port%d is Low !
+HPD P%d Disconnect
+[eDP] In Ht %d
+[eDP] In Vt %d
+[eDP] In VFeq %d
+[eDP] Ot Ht %d
+[eDP] Ot Vt %d
+[eDP] In DivH %x
+[eDP] In DivL %x
+[eDP] Out DivH %x
+[eDP] Out DivL %x
+eDP TX Set P%x MSA
+MSA Hwidth[%d]
+MSA Vheight[%d]
+MSA Htotal[%d]
+MSA Vtotal[%d]
+>> eDP TX Init Port[%x] <<
+PANEL_OUTPUT_FMT_4B
+eDPTX rate=[%x] Mode Init 
+mhal_eDPTx_VDClkRst
+  MSA Data from Panel define 
+## eDPTX MOD PORT#[%x] ML Signal On ##
+## eDPTX MOD PORT#[%x] ML Signal Off ##
+MSA Htotal[%x]
+MSA eDPTXMSA_HStart[%x]
+MSA eDPTXMSA_HSP*0x8000+eDPTXMSA_HSW[%x]
+MSA Vtotal[%x]
+MSA eDPTXMSA_VStart[%x]
+MSA eDPTXMSA_VSP*0x8000+eDPTXMSA_VSW[%x]
+MSA Hwidth[%x]
+MSA Vheight[%x]
+eDPTX_OUTBL_PixRateKhz = %x
+eDPTX_OUTBL_PixRateKhz>>16 = %x
+[eDPTX] TU_size = %d
+eDPTXColorDepth1 = %x
+[Err] HDCP Get  DPTXR0 func init failed!!!
+[Err] HDCP Compare Ri func init failed!!!
+[Err] HDCP KSVFIFO func init failed!!!
+[Err] HDCP READX74 func init failed!!!
+[Err] HDCP WriteX74 func init failed!!!
+**Combo check HDCP22 key decode done
+** TMDS HDMI Rx Load Key
+**Combo check HDCP22 ROM code done
+**Combo check HDCP22 ROM done, but Result is NG!
+Hdcp
+Enter %s() function
+Hdcp2X
+[0;32;31m
+Invalid Port Index!
+NULL function pointer
+[1;33m
+RxHDCPCtrl Callback Function Initialized!
+Leave %s() function
+RepKSVFIFO Callback Function Initialized!
+ReadX74 Callback Function Initialized!
+WriteX74 Callback Function Initialized!
+Rdy Bit Check Port %d
+BKSV Read Port %d
+Port %d, MsgID: %d
+g_u8SecR2RomFlag=0
+====3g_u8SecR2EventFlag is %d===
+NULL RAWKEY data!
+Send [EN_HDCPMBX_CC_LOAD_HDCP2X_RX_RAWKEY] Command FAIL!
+NULL KEY data!
+Send [EN_HDCPMBX_CC_LOAD_HDCP2X_TX_KEY_WITH_CUSTOMIZE_KEY] Command FAIL!
+Send Decode Key Command FAIL!
+Send [EN_HDCPMBX_CC_LOAD_HDCP2X_RX_KEY_WITH_CUSTOMIZE_KEY] Command FAIL!
+HDCPHandler_SECU_SET_HDMI_DP
+Send HDCPHandler_SECU_SET_HDMI_DP FAIL
+HDCPHandler_SECU_PowerDown
+Send HDCPHandler_SECU_PowerDown FAIL
+%s[%s] %s ((%s:%d))%s
+%2X 
+[1;35m
+g_enHdcp2xLogPriority: %d
+g_enHdcp1xLogPriority: %d
+Invalid Host!
+Inactive Command!
+Not In Waiting State!
+ERROR: Invalid Port Index!
+ERROR: pu8Offset is NULL, Invalid Input Argument!
+ERROR: Get Offset fail!
+ERROR: Invalid Host
+ERROR: Invalid Common Command!
+Wait Previous Process
+ERROR: Get offset fail!
+_HDCPMBX_CheckCmdValid:: Port = 0x%d
+ERROR: Invalid Port Index!
+ERROR: Invalid Command!
+ERROR: Get offset fail!
+Not in WAITING State!
+Port[%d], Role = %d, Command ID = 0x%X, Host = %d, ArgSize = 0x%X, ArgAddr = 0x%X
+ERROR: This Port %02X Is busy currently
+NULL Function Pointer!
+Recv ReadDone
+[0;32;32m
+Receive AKE_Init, Halt Process!
+Recv AKE_Init
+Already Got Message!
+Recv AKE_No_Stored_Km
+Recv AKE_Stored_Km
+Recv LC_Init
+Recv SKE_Send_Eks
+Recv RepAuth_Send_Ack
+Recv RepAuth_Stream_Manage
+Unknown Message ID!!
+Set Mailbox Command Fail!
+[1;31m
+Process Msg Fail!
+Command NOT Done
+NoTxConnectComputeVprime %d
+Port#%d Get State Fail!
+Unknown State AKEINIT!
+Command Not Done
+HDCPRx_Hdcp2AKESendCert() Fail!
+[1;32m
+Unknown State! B1
+Unknown State! B2
+Hdcp22 RX Auth Done@Port #%d
+HDCPRx_Hdcp2Process_RecvIDList() Fail!
+HDCPRx_Hdcp2AKESendRepeaerRecvListMsg() Fail!
+Rep Send Ack Timeout!
+Verify Least V Fail!
+Unknown State! B4
+Unknown State! Main
+monitor_ap/KERNEL/SCALER/dri_table_gen.c
+ClearBurnInTime VCP_Code=%x
+ClearBurnInTime VCP ValueH=%x
+ClearBurnInTime VCP ValueL=%x
+ClearBurnInTime VCP ValueValue=%x
+SetLanguage VCP_Code=%x
+SetLanguage VCP ValueH=%x
+SetLanguage VCP ValueL=%x
+SetLanguage VCP ValueValue=%x
+AutoColor_PCT_6500K==%x
+1.1.3
+MenuPageIndex---%d
+MenuItemIndex---%d
+BDMA_Operationxx start 
+Both Ch0 and Ch1 are busy
+Ch0 is busy
+Ch1 is busy
+TIMEOUT!!
+Can't find the specific pattern in this range!!!
+BDMA_OP_dwDestinAddr_H: 0x%x
+BDMA_OP_dwDestinAddr_L: 0x%x
+BDMA_Operationxx end 
+MDrv_Sys_SecuRun:
+ SECU_R2 ID=0x%x, src_addr=0x%x, bin_len=0x%x
+DOWNLOAD_RUN_SERVER=0
+ENABLE_WATCH_DOG=0
+MDrv_Sys_DisableWatchDog Done
+MDrv_ISR_Init Done
+MDrv_Timer_Init Done
+MsOS_CPU_EnableInterrupt Done
+system trap
+System trap at %s :%u
+Check timer
+./timer_cb/timer_cb.c
+q8-@X,E
+ X,%
+MStar Demo
+      
+ n(U
+q8-@X,E
+ X,%
+MStar Demo
+      
+ n(U
+q8-@X,E
+ X,%
+MStar Demo
+      
+ n(U
+q8-@X,E
+ X,%
+MStar Demo
+      
+ n(U
+YOt<
+s&1I
+|b%lal
+/*i?
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+) `h
+c?MK
+c_MK
+?Ek<ML
+7Ek4
+:P`$
+ P`$
+vP`_
+hP`R
+ZP`2
+LP` 
+>P`R
+0P`U
+"P`N
+ u\
+K%|Z@
+%`k!`
+GX,B
+ Cf=@d
+=De=OX
+$Dg5
+@c-L
+G8,B
+$Dg5
+ CF=#@>
+5Dg5O7
+Gw$C
+w@c%L
+ CE=#@TN
+=G&=O{
+ CF=@
+G7<@
+G74@
+GF=LW
+ @c!
+LcB\c
+dN d
+h a@
+Z< `
+"!Ev
+Lc!\
+Lj!\
+@!H>
+A!O^
+) dT$`! h
+IQ@  
+@I@8Ml
+D@l4P
+D@l<P
+D@l4
+F@l4D
+H@l4D
+(AOdAne
+PAC< 
+D@m$
+AJeMJ
+JAm$
+K@m<
+L@m$
+M@m<
+PAG4
+R@j<
+R@j<
+AJ=]J
+cP`p
+@S 6S
+C avT
+cP` 
+)N,)
+AP` 
+^ !P
+@"$F
+w^@!P
+H"DF
+X!@4
+X `H
+)$hK 
+Lc8D
+$9@k<
+#@AL4
+cP` 
+XP` 
+JP` 
+EP`H
+#P` 
+EP`(
+#P` 
+J `H
+EP`(
+#P` 
+EP`(
+bP`0
+#P` 
+EP`(
+EP` 
+b `H
+d `H
+EP`@
+EP`@
+#@Aj<
+#K@j4
+#Y@n<
+@n4
+$9@j<
+@j<
+@j4
+#@AN<
+LcH 
+Mc@MCH 
+"S@k<
+Tc  c
+) `8
+$`4
+<$|2
+G?,O_
+G?4O_
+G_4O?
+AKS
+ `D
+.Hj
+O+)# 
+ C'%
+n#@$
+ CG%
+ `~
+v$|X
+C a.
+2 bJ
+C `6
+~$|<
+ `V@
+:$|<
+ `V@
+G[4O
+Dj4C
+=C'$C
+5C'$@
+"`,
+c `:
+C ab
+C `n
+b"@>!
+v!dj
+C a^M
+C `j
+Af<
+T }$
+C `,
+"# ,
+Exception: %d
+r0 : %08lX  r1 : %08lX  r2 : %08lX  r3 : %08lX
+r4 : %08lX  r5 : %08lX  r6 : %08lX  r7 : %08lX
+r8 : %08lX  r9 : %08lX  r10: %08lX  r11: %08lX
+r12: %08lX  r13: %08lX  r14: %08lX  r15: %08lX
+r16: %08lX  r17: %08lX  r18: %08lX  r19: %08lX
+r20: %08lX  r21: %08lX  r22: %08lX  r23: %08lX
+r24: %08lX  r25: %08lX  r26: %08lX  r27: %08lX
+r28: %08lX  r29: %08lX  r30: %08lX  r31: %08lX
+sr : %08X  pc : %08lX  eear: %08lX
+------ stack backtrace ------
+-----------------------------
+vector %d addr:%lX data:%lX
+interrupt.c
+mhal_default_isr vector: %ld regs: %p
+Hdcp
+[1;33m
+Set MBX address ok
+HDCPHandler_Init ok
+fpga_main
+ Russell2: %s @%s(%s)
+BD_MSTxxxA_DxxA_S
+16:52:26
+Jul  1 2021
+0123456789ABCDEF
+%s[%s] %s ((%s:%d))%s
+%02X 
+Hdcp2X
+[1;35m
+HDCPCompute_Hdcp2DecryptKey
+EN_HDCPMBX_CC_LOAD_HDCP2X_RX_KEY done!
+EN_HDCPMBX_CC_LOAD_HDCP2X_TX_KEY done!
+EN_ENABLE/DISABLE done!
+g_u32HdcpDataBufAddr = 0x%x
+g_u32HdcpDataBufSize = 0x%x
+[0;32;31m
+Invalid Common Command!
+HDCP_Handler
+HDCPHandler_ProcessCommonCmd
+HDCPHandler_SetupMbxAddr
+Free IMI buffer FAILED!!!! No Used Buffer Currently
+Free IMI buffer FAILED!!!! NOT Enough Used Buffer Currently
+Allocate IMI buffer FAILED!!!!! NOT enough space!!!!
+ IMI_Init 
+Not enough buffer to attach timerCB!!!!!
+Not enough buffer to set period!!!!!
+Calculate SHA-1 Fail!
+Calculate SHA256 Fail!
+Calculate HMAC-SHA256 Fail!
+Calculate AES Fail!
+Calculate SHA Fail!
+Rx u8MsgID = %d
+Rx u32ArgAddr = 0x%x
+Rx u16ArgSize = 0x%x
+Invalid Message ID
+Inactive Message
+ArgSize Incorrect = 0x%X
+MagicID chk= %d
+Invalid Magic ID
+No Free AES Set!
+SecureStorm Using HW Key = %d
+No Free SHA Set!
+Hash Compare Fail!
+securestorm = %d
+Tx u8MsgID = %d
+Tx u32ArgAddr = 0x%x
+Tx u16ArgSize = 0x%x
+Input Src::
+copy AES key:
+Enter %s() function
+Leave %s() function
+ERROR!!
+Verify Cert Fail! @ index[%d]
+MStar_MST9U4-V10MSTAR_SECURE_STORE_FILE_MAGIC_IDHDCPCompute_ComputeM
+HDCPCompute_ComputeV
+HDCPCompute_ComputeL
+HDCPCompute_ComputeH
+HDCPCompute_ProcessDkey
+HDCPCompute_ProcessEkhKm
+HDCPCompute_Hdcp2DecryptKey
+HDCPCompute_ComputeKh
+HDCPCompute_Hdcp2InitRxKey
+HDCPCompute_Hdcp2InitTxKey
+UP#%d : Inactive Command!
+P#%d : Get State Fail!
+P#%d : Not in WAITING State!
+P#%d : Invalid Port Index!
+P#%d : Invalid Command!
+P#%d : Get offset fail!
+u8Header = %x
+u8CommandInfo = %x
+u16ArgSize = %x
+u32ArgAddr = %x
+HDCPMBX_GetCmd
+_HDCPMBX_CheckCmdValid
+No Free SECIP!
+Compute M Process Fail!
+V Prime Process Fail!
+NULL Function Pointer!
+Receive NEW AKE_Init!
+P#%d : u8CmdID = %d
+Rx Least V != V'
+HDCPRx_ProcessCmd
+HDCPRx_Hdcp2ProcessRepAuthStreamMsg
+HDCPRx_Hdcp2ProcessVPrime
+HDCPRx_Hdcp2xAKEInit
+bUseKmNewMode = %d
+Null Argument
+[1;36m
+HDCPTx_Hdcp2xFillCipherKey
+Invalid parameters.
+Length is not alignment
+V != VPrime 
+u8CmdID = 0x%X
+Storedkm = %d
+H != H'
+HDCPTx_Hdcp2xProcessLCInit() Failed!
+HDCPTx_Hdcp2xRecvAKESendPairingInfo() Failed!
+L != L'
+Tx Most V != V'
+Retry Stream Manage!
+M != M'
+HDCPTx_Hdcp1xTxLoadKey
+MBEDTLS_ERR_MPI_ALLOC_FAILED OVER FLOW
+MBEDTLS_ERR_MPI_ALLOC_FAILED NULL SPACE
+EFE021C2645FD1DC586E69184AF4A31ED5F53E93B5F123FA41680867BA110131944FE7952E2517337780CB0DB80E61AAE7C8DDC6C5C6AADEB34EB38A2F40D5E6
+B2E7EFD37075B9F03FF989C7C5051C2034D2A323810251127E7BF8625A4F49A5F3E27F4DA8BD59C47D6DAABA4C8127BD5B5C25763222FEFCCFC38B832366C29E
+0066A198186C18C10B2F5ED9B522752A9830B69916E535C8F047518A889A43A594B6BED27A168D31D4A52F88925AA8F5
+602AB7ECA597A3D6B56FF9829A5E8B859E857EA95A03512E2BAE7391688D264AA5663B0341DB9CCFD2C4C5F421FEC8148001B72E848A38CAE1C65F78E56ABDEFE12D3C039B8A02D6BE593F0BBBDA56F1ECF677152EF804370C1A305CAF3B5BF130879B56C61DE584A0F53A2447A51E
+256567336059E52CAE22925474705F39A94
+6613F26162223DF488E9CD48CC132C7A0AC93C701B001B092E4E5B9F73BCD27B9EE50D0657C77F374E903CDFA4C642
+36E139AEA55215609D2816998ED020BBBD96C37890F65171D948E9BC7CBAA4D9325D24D6A3C12710F10A09FA08AB87
+003A0AAEDD7E784FC07D8F9EC6E3BFD5C3DBA76456363A10869622EAC2DD84ECC5B8A74DAC4D09E03B5E0BE779F2DF61
+0123456789ABCDEF
+7)+Z
+S"f+
+!9I
+w.ilw
+i~.g9?
+q($>
+a$T4
+F(*K
+A ("I
+? H.G8W
+!Q|{6n
+%_$p
+-xqP
+iO=Wm4
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<2jh}
+<D<D<D<D<D
+222222
+222222
+P2jh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+>Yjh}
+>Y>Y>Y>Y>Y
+222222
+222222
+Yjh}
+222222
+222222
+Djh}
+222222
+222222
+GDjh}
+GDGDGDGDGD
+222222
+222222
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+P2jh}
+dDdDdDdDdD
+222222
+222222
+22jh}
+dDdDdDdDdD
+222222
+222222
+(2jh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+dDjh}
+dDdDdDdDdD
+222222
+222222
+Djh}
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+<Djh}
+<D<D<D<D<D
+222222
+222222
+Z2jh}Z2
+Z2jh}Z2
+Z2jh}Z2

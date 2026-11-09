@@ -1,0 +1,529 @@
+DDR init end.
+DDR init failed.
+DUALIMG
+SYSTEM
+SETTING
+Init CPU clock fail.
+No cpu and ddr init database.
+Can not find APP.
+DDR Memory manage failed. System hang
+Load compress app fail. System hang
+Malloc cpr data memory fail. System hang
+SPI remap failed.
+Boot Application fail.
+Bootloader V3.3.1 (2018) ...
+Start Init CPU Clock.
+CPU Clock Init end.
+CPU Clock init loop error.
+DDRHDF
+Sys HDF init end. 
+Can not find Sys HDF. 
+Error format out in LE
+Error to process sys setting. System hang.
+.bss
+Decompress and load App end.
+Load App end.
+Memory heap init status: 
+Total mem block %d
+Total size 0x%08x
+Free size 0x%08x
+Idx     Size            MGRAddr         PreMGR          MemAddr         Status          
+Memory block %d: broken
+%d: 0x%08x        0x%08x        0x%08x        0x%08x        free
+%d: 0x%08x        0x%08x        0x%08x        0x%08x        used
+free memory fail since output range 
+free memory fail since pointer error 
+Free memory 
+ fail since memory broken on free
+ fail since memory broken
+ fail
+Malloc 
+ memory fail since no free memory.
+ memory fail since memory broken.
+ memory fail since no enough memory.
+Memory heap try init at: 
+, size = 
+Memory heap init at: 
+Setting data len is wrong
+KVIMAPP
+.text
+.ktext
+.rodata
+.data
+.bss
+ '#0
+ #0
+,  L
+, !L
+, "L
+, #L
+, $L
+, )L
+, ,L
+$`D)
+$` -
+$a0@
+ 'L
+ ,!0
+ ?#?
+`?9?
+6 LL
+&  K
+ "K
+ #K
+ (K
+ )K
+ *K
+ TK
+ UK
+ProcessModuleDB
+LOD_Gain_Init
+LOD_Init
+sGamma_write_csotlut
+Drv - RX = %d, TX = %d 
+interrupt service init...
+Init application heap failed. Systm Hange!
+Kiwi-Image Applcation starting...
+SYS: 01.43.24_CSOT05
+SVN: 28284 2021.05.20 17:07:15
+CUSVER
+-------------------------------------------------------
+Customer Ver: %d
+Init Config failed. Systm Hange!
+Enter main loop...
+Error: app stopped %s
+May 20 2021 17:07:27
+VSAA
+[Demura]Init...
+[Demura]eSPIMode = %d 
+[Demura]uiLength = %x 
+Demura mode [%d] init Data_Len = 0x%x Failed...
+DDRHDF
+Enable PTG&TX data output 
+TX Afifo reset...
+DRV_END
+DEMURA_LUT
+%s,(%s)(Line %d )
+ktcon_spi.c
+Can not find DB. System hang...
+lod_spi.c
+reg_klod_gainlut_hact setting is Error!
+LOD Gain bin file length is error [%d]
+LOD bin file length is error [%d]
+IIC_Read_KiwiChip = %d 
+IIC_Unlock_KiwiChip = %d 
+TX PLL reset...
+TX reset...
+KTcon_Timing_Adjust delay[%d], htotal[%d]
+DDR rslt = 0x%x, pass
+DDR rslt = 0x%x, reinit...
+%x %x %x 
+!!!!!!!!DDR Patch rslt = 0x%x, rst and reinit
+startData=%d!
+endData=%d!
+WCG_Init!
+WCG DB addr is NULL!
+WCG LUT length is not 17*17*17*2 in .bin file!
+CM DB addr or len is zero!
+there is not section type to match
+[Demura]CSOT demura Lut Init:
+uiDemuDataAddr= %08X
+demura magic is wrong.
+[Demura]LUT Size Error[LUT:%d X %d][Real:%d X %d]
+[Demura]Layer Num Error[Maximum:4][Real:%d]
+[Demura]LUT Size[%d X %d]
+[Demura]update demura reg
+No demura data or the data is wrong.
+[Demura]Param CheckSum = 0x%08x(0x%08x)
+Demura LUT Parameter CheckSum Error
+Demura Input LUT Resolution Wrong parsed[%d,%d], cal[%d,%d]!
+[Demura]Data CheckSum = 0x%08x(0x%08x),DataCnt = 0x%08x
+custom demura lut load %d
+Header:
+reg size: 0x%08X
+reg crc: 0x%04X
+lut size: 0x%08X
+lut crc: 0x%04X
+demura on:            %d
+block size:           %d
+rgb mode on:          %d
+rgb bypass:           %d
+plane num:            %d
+low R limit:          %d
+plane R0 lvl:         %d
+plane R1 lvl:         %d
+plane R2 lvl:         %d
+plane R3 lvl:         %d
+High R limit:         %d
+plane R0 mag:         %d
+plane R1 mag:         %d
+plane R2 mag:         %d
+plane R3 mag:         %d
+plane R0 offset:      0x%04X
+plane R1 offset:      0x%04X
+plane R2 offset:      0x%04X
+plane R3 offset:      0x%04X
+H active              %d
+V active              %d
+Calc reg crc:
+ 0x%04X
+Calc lut crc:    0x%04X
+[Demura]CSOT hawk demura Lut Init:
+uiDemura_Addr = 0x%08x, len = 0x%08x, dst_addr = 0x%08x
+Demura init CRC Failed, uiCRC = 0x%08x, spiCRC = 0x%08x
+[Demura]Nova Lut Init:
+  Demura Header Error!
+  NVT Header: %08X, %d
+  PARAM CRC: %02X,%02X
+  PLANE NUM : %08X
+  DEMURA_TBL_H : %02X,%02X
+  DEMURA_TBL_V : %02X,%02X
+  DEMURA_BLK_H : %02X(0:4x,1:8x,2:16x)
+  DEMURA_BLK_V : %02X(0:4x,1:8x,2:16x)
+  DEMURA_LOWER_BOUND : %02X,%02X
+  DEMURA_UPPER_BOUND : %02X,%02X
+  PLANE00_LV : %02X,%02X
+  PLANE01_LV : %02X,%02X
+  PLANE02_LV : %02X,%02X
+  PLANE03_LV : %02X,%02X
+  TABLE CRC: %02X,%02X
+  Parameter CRC error! (Calc:%08X,Data:%02X%02X)
+table lut size: %08X
+  Table CRC error! (Calc:%08X,Data:%02X%02X)
+DDR Len:
+pParam->uiBlockXNumHalf = %d
+pParam->uiEvenDataLen0 = %d
+pParam->uiEvenDataLen1 = %d
+pParam->uiOddDataLen0 = %d
+pParam->uiOddDataLen1 = %d
+pParam->uiDummyEn0 = %d
+pParam->uiDummyEn1 = %d
+!!! Fail Shift = %d
+LUT NUM [%d * %d] is not match Block Size [%d * %d]
+The demura data is wrong.
+The spi speed flag value:%d
+The header crc not match - R:%08X, C:%08X.
+  Mstar Header: %08X, %d
+  All Bin CRC: %08X [%x]
+  Header CRC : %08X
+  Header Size : %08X
+  All Bin Size: %08X
+  ID : %s
+  BinVer: %04X
+  Layer Data Format: %02X
+  Enable: %02X
+  HNode Count: %04X
+  VNode Count: %04X
+  byStartLayerNumber: %02X 
+  byEndLayerNumber: %02X 
+  bySeparate: %02X
+  LayerDataStartAddress: %08X 
+  LayerDataOriginalSize: %08X 
+  LayerDataFlashSize: %08X
+  RegisterDataStartAddress: %08X
+  RegisterCount: %08X
+  ToolVersion: %08X
+  ProjectID: %08X
+  CustomDataStartAddress: %08X
+  CustomDataSize: %08X
+  CreationDateTime: %08X
+  HBlockSize: %02X
+  VBlockSize: %02X
+  PacketSize: %02X
+The all bin crc not match - R:%08X, C:%08X
+[Demura]Mstar Lut Init:
+Mstar Reg:
+  demura param: 
+  reg_dmc_black_limit = 0x%X
+  reg_dmc_plane_level_%d = 0x%X
+  reg_dmc_white_limit = 0x%X
+  reg_dmc_data_r_mag_%d = 0x%X
+  reg_dmc_data_g_mag_%d = 0x%X
+  reg_dmc_data_b_mag_%d = 0x%X
+  reg_dmc_plane_b1_coef = 0x%X
+  reg_dmc_plane_12_coef = 0x%X
+  reg_dmc_plane_23_coef = 0x%X
+  reg_dmc_plane_34_coef = 0x%X
+  reg_dmc_plane_45_coef = 0x%X
+  reg_dmc_plane_56_coef = 0x%X
+  reg_dmc_plane_67_coef = 0x%X
+  reg_dmc_plane_78_coef = 0x%X
+  reg_dmc_plane_8w_coef = 0x%X
+  reg_dmc_plane_8w_ks22 = 0x%X
+  reg_dmc_plane_78_ks22 = 0x%X
+  reg_dmc_plane_67_ks22 = 0x%X
+  reg_dmc_plane_56_ks22 = 0x%X
+  reg_dmc_plane_45_ks22 = 0x%X
+  reg_dmc_plane_34_ks22 = 0x%X
+  reg_dmc_plane_23_ks22 = 0x%X
+  reg_dmc_plane_12_ks22 = 0x%X
+  reg_dmc_plane_b1_ks22 = 0x%X
+  reg_dmc_h_block = 0x%X
+  reg_dmc_v_block = 0x%X
+  reg_dmc_rgb_mode = 0x%X
+  reg_dmc_block_size = 0x%X
+  reg_dmc_plane_num = 0x%X
+  reg_dmc_h_lut_num = 0x%X
+  reg_dmc_v_lut_num = 0x%X
+  reg_dmc_dither_rst_e_4_frame = 0x%X
+  reg_dmc_dither_pse_rst_num = 0x%X
+  reg_dmc_bw_staus_en = 0x%X
+  reg_dmc_dither_en = 0x%X
+  reg_dmc_data_r_offset_%d = 0x%X
+  reg_dmc_data_g_offset_%d = 0x%X
+  reg_dmc_data_b_offset_%d = 0x%X
+  reg_dmc_panel_h_size = 0x%X
+  reg_dmc_grid_line_en = 0x%X
+  reg_dmc_grid_line_color = 0x%X
+  reg_dmc_flow_ctrl_en = 0x%X
+[Demura]Not Support Now [%d][%d]
+gamma_spi.c
+Ip01 Lut size is wrong, %d, %d
+Load hdf done... Total %d pages
+Exception happen: iNo = 0x%x
+illegal_instruction
+memory_address_not_aligned
+data_store_error
+divide_by_0
+instruction_access_exception
+data_access_exception
+unknow exception.
+   INS           LOCALS        OUTS          GLOBALS
+0: 0x%08x    0x%08x    0x%08x    0x%08x
+1: 0x%08x    0x%08x    0x%08x    0x%08x
+2: 0x%08x    0x%08x    0x%08x    0x%08x
+3: 0x%08x    0x%08x    0x%08x    0x%08x
+4: 0x%08x    0x%08x    0x%08x    0x%08x
+5: 0x%08x    0x%08x    0x%08x    0x%08x
+6: 0x%08x    0x%08x    0x%08x    0x%08x
+7: 0x%08x    0x%08x    0x%08x    0x%08x
+psr: 0x%08x    wim: 0x%08x    tbr: 0x%08x    y: 0x%08x
+pc:  0x%08x
+npc: 0x%08x
+ 0x%08x: 0x%08x
+ 0x%08x: 0x%08x
+IRQ 0x%x enabled, but no handler define.
+Memory heap init status: 
+Total mem block %d
+Total size 0x%08x
+Free size 0x%08x
+Idx     Size            MGRAddr         PreMGR          MemAddr         Status          
+Memory block %d: broken
+%d: 0x%08x        0x%08x        0x%08x        0x%08x        free
+%d: 0x%08x        0x%08x        0x%08x        0x%08x        used
+free memory fail since output range 
+free memory fail since pointer error 
+Free memory 
+ fail since memory broken on free
+ fail since memory broken
+ fail
+Malloc 
+ memory fail since no free memory.
+ memory fail since memory broken.
+ memory fail since no enough memory.
+Memory heap try init at: 
+, size = 
+Memory heap init at: 
+Setting data len is wrong
+debugduty mode0:Duty[1]=%d!
+b@!0
+%ch@
+,#x@
+cx'0
+` '0
+(cz!0
+ `!0
+!p#0
+!p#0
+!t!0
+ `0
+ cD0
+PKIWI
+KWBSP
+n|KIWI
+KWBSP
+HCUSVER
+{###
+KIWI
+KWBSP
+HCUSVER
+SETTING
+GRWK
+2018/12/13 17:16:25
+KV7626
+Test project
+GPYH
+A0R0
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+p`P@
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+PATTERN
+GRWK
+2021/3/23 20:27:44
+KV7626
+Test project
+h8GPYH
+GPYH
+GPYH
+GPYH
+@a@a
+GPYH
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+PATTERN
+RX_LVDS
+ST5461D07-1-C-C     
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+PATTERN
+RX_LVDS
+VSAA
+GRWK
+2021/3/25 17:37:10
+KV7626
+Test project
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+GPYH
+  .C
+  .C
+,Q5Q5
+GPYH
+GPYH
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+PATTERN
+RX_LVDS
+VSAA
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+PATTERN
+RX_LVDS
+VSAA
+`SYSTEM
+"',048<@DHLPTX\`dhlqv{
+ $(,0369<@DHLPTX\_behlptx|
+#(,048<@DHKNQTX\`dgjmpuz
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+PATTERN
+RX_LVDS
+VSAA
+`SYSTEM
+GAMMA_LUT
+Ca-P07
+Zq_eGOPX8@AG-25<$&)0
+jrpwW`ahNRV\AFLO9:HJ69
+krx}benrZ_
+Ca-P09
+Zr_eGOPX8@AG-25<$&)0
+jrpwW`ahNRV\AFLO9:HJ48
+krx|`enrY]
+C^*O08
+Yr_eGOPX8@@F,35:#((-
+ippvV`bhNRV\ADJO67FH03
+lrw{`dkpX]
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+PATTERN
+RX_LVDS
+VSAA
+`SYSTEM
+GAMMA_LUT
+OD_LUT
+4V4V
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+PATTERN
+RX_LVDS
+VSAA
+`SYSTEM
+GAMMA_LUT
+OD_LUT
+DEMURA
+KIWI
+KWBSP
+HCUSVER
+SETTING
+DDRHDF
+HDITHER
+PATTERN
+RX_LVDS
+VSAA
+`SYSTEM
+GAMMA_LUT
+OD_LUT
+DEMURA
+CSOTdemuratestonly
